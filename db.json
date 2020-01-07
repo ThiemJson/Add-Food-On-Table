@@ -1,6 +1,11 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
+    "foods": [
+      { "id": 1, "name": "Rice", "author": "typicode" },
+      { "id": 2, "name": "Noodles", "author": "typicode" },
+      { "id": 3, "name": "Steak", "author": "typicode" },
+      { "id": 4, "name": "Something about rice" , "author": "typicode" },
+      { "id": 5, "name": "Fish ", "author": "typicode" },
+      { "id": 6, "name": "Fruit", "author": "typicode" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
